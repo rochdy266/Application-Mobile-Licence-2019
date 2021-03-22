@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/accueil"
+        android:title="Accueil"
+        android:icon="@mipmap/home"
+        app:showAsAction="never"
+        />
+    <item
+        android:id="@+id/hasard"
+        android:icon="@mipmap/shuffle"
+        android:title="Bien au hasard" />
+
+    <item
+        android:id="@+id/favoris"
+        android:title="Mes coups de coeur"
+        android:icon="@mipmap/baseline_favorite_border_black_18dp"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/depot"
+        android:title="Déposer mon bien"
+        android:icon="@mipmap/house2"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/listeannonces"
+        android:title="LISTE DES BIENS IMMOBILIERS"
+        android:icon="@mipmap/checklist"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/maliste"
+        android:title="Mes biens deposés"
+        android:icon="@mipmap/add2"
+        app:showAsAction="never" />
+
+</menu>

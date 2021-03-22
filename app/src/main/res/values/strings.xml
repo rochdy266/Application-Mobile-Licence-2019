@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ImmobHouse</string>
+    <string name="open">open</string>
+    <string name="close">close</string>
+    <string name="title_activity_annonce">Annonce</string>
+    <string name="Accueil">Accueil</string>
+    <string name="Hasard">Bien au Hasard</string>
+    <string name="favoris">Mes coups de coeur</string>
+    <string name="depot">Déposer mon bien</string>
+    <string name="liste">Liste des biens</string>
+    <string name="visualiserBien">Mes biens déposés</string>
+</resources>
